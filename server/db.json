@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "username": "rashifganteng",
+      "email": "asdfgasgas@example.com",
+      "name": "dsfhthjetheh",
+      "id": 2
+    },
+    {
+      "username": "rayhansombonggila",
+      "email": "ashbfdgbg@jbsgbsgn.com",
+      "name": "ysbihbshsb",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "username": "rasihf",
+      "email": "rasrjhg@ijsg.com",
+      "name": "sbndjgbnsgj"
+    }
+  ],
+  "todo": [
+    {
+      "task": "Survey co-working space di Jogja",
+      "done": false,
+      "id": 1
+    },
+    {
+      "task": "Survey co-working space di Jogja",
+      "done": true,
+      "id": 2
+    },
+    {
+      "task": "Survey co-working space di Jogja",
+      "done": true,
+      "id": 3
+    },
+    {
+      "task": "Survey co-working space di Jogja",
+      "done": false,
+      "id": 4
+    }
+  ]
+}
