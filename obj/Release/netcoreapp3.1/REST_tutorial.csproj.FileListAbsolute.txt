@@ -1,0 +1,14 @@
+/Users/user/REST_tutorial/bin/Release/netcoreapp3.1/REST_tutorial
+/Users/user/REST_tutorial/bin/Release/netcoreapp3.1/REST_tutorial.deps.json
+/Users/user/REST_tutorial/bin/Release/netcoreapp3.1/REST_tutorial.runtimeconfig.json
+/Users/user/REST_tutorial/bin/Release/netcoreapp3.1/REST_tutorial.runtimeconfig.dev.json
+/Users/user/REST_tutorial/bin/Release/netcoreapp3.1/REST_tutorial.dll
+/Users/user/REST_tutorial/bin/Release/netcoreapp3.1/REST_tutorial.pdb
+/Users/user/REST_tutorial/bin/Release/netcoreapp3.1/McMaster.Extensions.CommandLineUtils.dll
+/Users/user/REST_tutorial/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/user/REST_tutorial/obj/Release/netcoreapp3.1/REST_tutorial.csprojAssemblyReference.cache
+/Users/user/REST_tutorial/obj/Release/netcoreapp3.1/REST_tutorial.AssemblyInfoInputs.cache
+/Users/user/REST_tutorial/obj/Release/netcoreapp3.1/REST_tutorial.AssemblyInfo.cs
+/Users/user/REST_tutorial/obj/Release/netcoreapp3.1/REST_tutorial.csproj.CopyComplete
+/Users/user/REST_tutorial/obj/Release/netcoreapp3.1/REST_tutorial.dll
+/Users/user/REST_tutorial/obj/Release/netcoreapp3.1/REST_tutorial.pdb
