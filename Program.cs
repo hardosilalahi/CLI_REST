@@ -75,7 +75,7 @@ namespace REST_tutorial
             var data = new StringContent(JsonConvert.SerializeObject(request),Encoding.UTF8, "application/json");
             var result = await client.PostAsync("http://localhost:3000/todo", data);
 
-            Console.WriteLine(result);
+            // Console.WriteLine(result);
 
         }
     }
@@ -95,7 +95,7 @@ namespace REST_tutorial
             var data = new StringContent(JsonConvert.SerializeObject(request),Encoding.UTF8, "application/json");
             var result = await client.PatchAsync($"http://localhost:3000/todo/{idNum}", data);
 
-            Console.WriteLine(result);
+            // Console.WriteLine(result);
 
         }
     }
@@ -112,7 +112,7 @@ namespace REST_tutorial
             // var data = new StringContent(JsonConvert.SerializeObject(request),Encoding.UTF8, "application/json");
             var result = await client.DeleteAsync($"http://localhost:3000/todo/{idNum}");
 
-            Console.WriteLine(result);
+            // Console.WriteLine(result);
 
         }
     }
@@ -130,7 +130,7 @@ namespace REST_tutorial
             var data = new StringContent(JsonConvert.SerializeObject(request),Encoding.UTF8, "application/json");
             var result = await client.PatchAsync($"http://localhost:3000/todo/{idNum}", data);
 
-            Console.WriteLine(result);
+            // Console.WriteLine(result);
 
         }
     }
@@ -148,7 +148,7 @@ namespace REST_tutorial
             var data = new StringContent(JsonConvert.SerializeObject(request),Encoding.UTF8, "application/json");
             var result = await client.PatchAsync($"http://localhost:3000/todo/{idNum}", data);
 
-            Console.WriteLine(result);
+            // Console.WriteLine(result);
 
         }
     }
